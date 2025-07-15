@@ -1,0 +1,9 @@
+# Ignore node_modules and other common files
+node_modules/
+.env
+dist/
+build/
+.cache/
+.DS_Store
+*.log
+*.lock
